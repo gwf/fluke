@@ -1,0 +1,15 @@
+.DS_Store
+**/Launch_*/**
+**/*.dSYM/**
+**/build/**
+\#*
+.\#*
+*~
+*.orig
+*.o
+*.out
+*.xpp
+.depend
+.git/
+hash1
+
